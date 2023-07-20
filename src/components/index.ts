@@ -1,0 +1,1 @@
+export { CustomDatePicker as DateRangePicker } from './App';
